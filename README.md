@@ -56,7 +56,7 @@ Soy estudiante de Ingeniería en Sistemas de Información y Ciencias de la Compu
 ## 📂 Portafolio QA
 
 👉 Puedes ver mi trabajo de QA aquí:  
-🔗 
+🔗 https://github.com/DougO28/Portafolio-QA.git
 
 ---
 
