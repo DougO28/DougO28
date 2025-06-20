@@ -9,7 +9,7 @@ Soy estudiante de Ingeniería en Sistemas de Información y Ciencias de la Compu
 - 🧩 **Soporte en producción IT** – Primer filtro ante errores en aplicaciones, APIs, base de datos, red y más.
 - 🛠️ Herramientas que utilizo: `Jira`, `Bitbucket`, `Confluence`, `Git`, `Postman`, `SonarQube`, `OWASP ZAP`, `Selenium`, `Cypress`
 - 🔧 Lenguajes: `C#`, `Python`.
-- 🐧 Sistemas: Uso diario de Linux (Ubuntu) desde Windows con Docker.
+- 🐧 Sistemas: Uso diario de Linux (Ubuntu) y Windows
 
 ---
 
