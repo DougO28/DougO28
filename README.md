@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Douglas
 
 Soy estudiante de Ingeniería en Sistemas de Información y Ciencias de la Computación, cursando el ultimo año. Me estoy especializando en **Aseguramiento de la calidad (QA)** de productos digitales, con interés en metodologías de prueba, automatización y mejora continua. Además, tengo me gusta la ciberseguridad, especialmente en temas relacionados con pruebas de vulnerabilidades y calidad segura del software.
+
 ---
 
 ## 💼 Experiencia y Rol Actual
