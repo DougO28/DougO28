@@ -7,11 +7,17 @@ Soy estudiante de Ingeniería en Sistemas de Información y Ciencias de la Compu
 ## 💼 Experiencia y Rol Actual
 
 - 🧪 Aseguramiento de Calidad (QA) – Enfocado en garantizar la calidad de productos digitales mediante pruebas funcionales manuales y automatizadas. Experiencia en diseño de casos de prueba, ejecución, documentación de incidencias y uso de herramientas de testing.
-- ✅ He trabajado en pruebas de API (con Postman), pruebas funcionales web (con Selenium y Cypress), análisis estático de código (SonarQube)
+
+- ✅ He trabajado en pruebas de API (con Postman), pruebas funcionales web (con Selenium y Cypress), análisis estático de código (SonarQube).
+  
 - 🧩 Experiencia en Soporte en Producción IT – Actuaba como primer filtro ante incidencias relacionadas con aplicaciones, APIs, bases de datos y red, colaborando estrechamente con equipos de desarrollo.
+  
 - 📚 Me capacito constantemente en temas como automatización, metodologías ágiles y fundamentos de pruebas (ISTQB, Testing).
-- 🛠️ Herramientas que utilizo: `Jira`, `Bitbucket`, `Confluence`, `Git`, `Postman`, `SonarQube`, `OWASP ZAP`, `Selenium`, `Cypress`
-- 🔧 Lenguajes: `C# .NET Framework`, `Python`, `SQL`, `HTML/CSS`, `JavaScript`. 
+  
+- 🛠️ Herramientas que utilizo: `Jira`, `Bitbucket`, `Confluence`, `Git`, `Postman`, `SonarQube`, `OWASP ZAP`, `Selenium`, `Cypress`.
+  
+- 🔧 Lenguajes: `C# .NET Framework`, `Python`, `SQL`, `HTML/CSS`, `JavaScript`.
+  
 - 🐧 Sistemas: Uso diario de Linux (Ubuntu) y Windows
 
 ---
